@@ -1,0 +1,22 @@
+{
+    "customer":{
+        "name":"Deepak",
+        "email":"deepak@gmail.com",
+        "gender":"male",
+        "products":[
+            {
+                "pid":201,
+                "productName":"Mobile",
+                "price":1000,
+                "qty":1
+            },
+            {
+                "pid":399,
+                "productName":"Laptop",
+                "price":200000,
+                "qty":3
+                
+            }
+        ]
+    }
+}
